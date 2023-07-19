@@ -1,4 +1,4 @@
-# Django_blog
+# Django(Posts)
 
 A blog application made on Django.
 
